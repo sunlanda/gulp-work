@@ -1,0 +1,1 @@
+"use strict";!function(){var t=document.getElementById("div");t.addEventListener("click",function(){alert(1)})}();
