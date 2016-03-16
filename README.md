@@ -1,11 +1,17 @@
 #gulp工作流使用简析
 
+###先看个效果(图略慢)
+![](http://www.onedate.cn/pubilcimg/gulp-gif02.gif)
+
 
 ###安装顺序
     > npm install gulp --save-dev
     > npm install gulp-less gulp-css-base64 --save-dev
     > npm install gulp-concat gulp-uglify gulp-cssnano gulp-htmlmin --save-dev
     > npm install browser-sync --save-dev
+    > (也可以fork下来npm isntall一下-package.json)<(￣︶￣)↗[GO!]
+![](http://www.onedate.cn/pubilcimg/gulp-rely.png)
+
 
 ###开始项目
     > npm  init 初始化项目
@@ -37,3 +43,4 @@
     > 请记得区分开发环境和生产环境
     > 多使用cmd测试小模块
     > npm是个神奇的地方 
+[npm-browser-sync](https://www.npmjs.com/package/browser-sync)
